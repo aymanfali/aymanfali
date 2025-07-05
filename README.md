@@ -2,7 +2,7 @@
 
 <hr>
 
-- 🧑‍💻 I’m currently working on Web Development using Laravel and React.js
+- ⚡ I’m currently working on Web Development using Laravel and React.js
 - 👯 I’m looking forward to collaborate on big projects
 - 🤔 I can help with problems solving
 - 📫 To reach me on: ayman4swd@gmail.com || +967738718923
