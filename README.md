@@ -1,4 +1,4 @@
-## Hi there 👋 I am #Ayman F. Ali
+## Hi there 👋 I am *Ayman F. Ali*
 
 <hr>
 
