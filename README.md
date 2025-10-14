@@ -17,6 +17,19 @@
 
 ![aymanfali's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanfali&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
+
 <!--
 **aymanfali/aymanfali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
