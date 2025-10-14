@@ -1,4 +1,4 @@
-## Hi there 👋 I am *Ayman F. Ali*
+## Hi there 👋 I am <code>Ayman F. Ali</code>
 <div align="center">
   <img class="image" src="header.svg" width="800%" alt="Click to see the source">
 </div>
