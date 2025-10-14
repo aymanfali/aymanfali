@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,vite,ts,nodejs,mongodb,laravel,php,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,vite,ts,nodejs,mongodb,laravel,php,mysql,sqlite" />
   <img src="https://skillicons.dev/icons?i=postman,git,github,githubactions,wordpress,vscode,docker,linux,notion" />
 </p>
 
