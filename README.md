@@ -11,12 +11,24 @@
 
 <hr>
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,vite,ts,nodejs,mongodb,laravel,php,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postman,git,github,githubactions,wordpress,vscode,docker,linux,notion" />
+</p>
+
+<hr>
+
 ![aymanfali's Stats](https://github-readme-stats.vercel.app/api?username=aymanfali&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![aymanfali's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aymanfali&theme=vue-dark&hide_border=true)
 
 ![aymanfali's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanfali&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+<hr>
 
 ## 🐍 My Contributions
 
