@@ -1,6 +1,6 @@
 ## Hi there 👋 I am *Ayman F. Ali*
 <div align="center">
-  <img class="image" src="header.svg" alt="Click to see the source">
+  <img class="image" src="header.svg" width="800%" alt="Click to see the source">
 </div>
 <hr>
 
