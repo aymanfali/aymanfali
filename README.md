@@ -3,6 +3,7 @@
   <img 
     src="header.svg" 
     alt="Header Image" 
+    width="800%"
     style="max-width: 100%; height: auto; pointer-events: none; user-select: none;"
   />
 </div>
