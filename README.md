@@ -1,7 +1,12 @@
 ## Hi there 👋 I am <<code>Ayman F. Ali</code>>
 <div align="center">
-  <img class="image" src="header.svg" width="800%" alt="Click to see the source">
+  <img 
+    src="header.svg" 
+    alt="Header Image" 
+    style="max-width: 100%; height: auto; pointer-events: none; user-select: none;"
+  />
 </div>
+
 <hr>
 
 - ⚡ I’m currently working on Web Development using Laravel and Vue.js
