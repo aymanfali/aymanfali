@@ -1,4 +1,4 @@
-## Hi there 👋 I am <<code>Ayman F. Ali</code>>
+## Hi there 👋 I am <<code>Eng. Ayman F. Ali</code>>
 <div align="center">
   <img 
     src="header.svg" 
@@ -14,9 +14,9 @@ https://eng-ayman.netlify.app/
 
 <hr>
 
-- ⚡ I’m currently working on Web Development using Laravel and Vue.js
+- ⚡ I’m currently working as Full-Stack Web Developer using Laravel and Vue.js
 - 👯 I’m looking forward to collaborate on big projects
-- 🤔 I can help with problems solving
+- 🤔 I can Build your dream web application
 - 📫 To reach me on: ayman4swd@gmail.com || +967738718923
 - 🔗 Connect Me on LinkedIn: https://www.linkedin.com/in/ayman-f-ali/
 - 🔎 Visit my portfolio on https://eng-ayman.netlify.app/
