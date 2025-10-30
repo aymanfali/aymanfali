@@ -34,11 +34,11 @@ https://eng-ayman.netlify.app/
 
 <hr>
 
-![aymanfali's Stats](https://github-readme-stats.vercel.app/api?username=aymanfali&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aymanfali&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-![aymanfali's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aymanfali&theme=vue-dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanfali&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-![aymanfali's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanfali&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=aymanfali&theme=dark&hide_border=true)
 
 <hr>
 
