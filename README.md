@@ -40,6 +40,8 @@ https://eng-ayman.netlify.app/
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=aymanfali&theme=dark&hide_border=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aymanfali)](https://git.io/streak-stats)
+
 <hr>
 
 ## 🐍 My Contributions
