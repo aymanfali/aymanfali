@@ -16,7 +16,7 @@ https://eng-ayman.netlify.app/
 
 - ⚡ I’m currently working as Full-Stack Web Developer using Laravel and Vue.js
 - 👯 I’m looking forward to collaborate on big projects
-- 🤔 I can Build your dream web application
+- ✨ I can Build your dream web application
 - 📫 To reach me on: ayman4swd@gmail.com || +967738718923
 - 🔗 Connect Me on LinkedIn: https://www.linkedin.com/in/ayman-f-ali/
 - 🔎 Visit my portfolio on https://eng-ayman.netlify.app/
