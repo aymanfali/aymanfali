@@ -38,8 +38,9 @@ https://eng-ayman.netlify.app/
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanfali&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
+<!--
 ![GitHub Stats](https://streak-stats.demolab.com?user=aymanfali&theme=dark&hide_border=true)
-
+-->
 
 <hr>
 
