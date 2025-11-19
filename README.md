@@ -25,7 +25,7 @@
 <hr>
 
 # 🌐 visit my website on:
-https://eng-ayman.netlify.app/
+https://eng-ayman.netlify.app
 
 <hr>
 
