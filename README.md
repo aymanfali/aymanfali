@@ -2,7 +2,7 @@
   <img style="100%" width="1440px" src="https://capsule-render.vercel.app/api?type=blur&height=200&section=header&reversal=false&text=Ayman%20F.%20Ali&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=000000&strokeWidth=1&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20Web%20Developer&descSize=20&descAlign=50&descAlignY=80&textBg=false&color=gradient"  />
 </div>
  
-<hr>
+<hr> 
 
 <div align="center">
   <img 
